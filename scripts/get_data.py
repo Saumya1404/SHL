@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 
-url = "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/"
+url = "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/"
 
 HEADERS = {
     "User-Agent": (
@@ -12,7 +12,7 @@ HEADERS = {
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Encoding": "gzip, deflate",
     "Connection": "keep-alive",
     "Upgrade-Insecure-Requests": "1",
     "Referer": "https://www.shl.com/",
@@ -35,8 +35,6 @@ def normalize_key(text: str) -> str:
 def extract_data(html: str):
     soup = BeautifulSoup(html, "html.parser")
     data = {}
-
-    # Assessment name
     h1 = soup.find("h1")
     if h1:
         data["name"] = h1.get_text(strip=True)
@@ -52,27 +50,20 @@ def extract_data(html: str):
             continue
 
         key = normalize_key(h4.get_text())
-
-        # Primary value: first direct <p>
         primary_p = row.find("p", recursive=False)
-        if primary_p:
+        if primary_p and key not in data:
             data[key] = primary_p.get_text(strip=True)
-
-        # Secondary attributes inside d-flex
+    for row in rows:
         flex_div = row.find("div", class_="d-flex")
         if not flex_div:
-            continue
-
+            continue       
         for p in flex_div.find_all("p"):
             text = p.get_text(strip=True)
-
-            # ---- Test Type ----
             if "Test Type" in text:
                 type_spans = p.find_all("span", class_="product-catalogue__key")
                 if type_spans:
                     data["test_type"] = [s.get_text(strip=True) for s in type_spans]
 
-            # ---- Remote Testing ----
             elif "Remote Testing" in text:
                 if p.find("span", class_="ms-2 || catalogue__circle -yes"):
                     data["remote_testing"] = "Yes"
@@ -80,7 +71,6 @@ def extract_data(html: str):
                     data["remote_testing"] = "No"
 
     return data
-
 
 if __name__ == "__main__":
     try:

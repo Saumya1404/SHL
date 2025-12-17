@@ -46,16 +46,13 @@ def extract_data(html: str):
             continue
 
         key = normalize_key(h4.get_text())
-
-
         primary_p = row.find("p", recursive=False)
-        if primary_p:
+        if primary_p and key not in data:
             data[key] = primary_p.get_text(strip=True)
-
+    for row in rows:
         flex_div = row.find("div", class_="d-flex")
         if not flex_div:
-            continue
-
+            continue       
         for p in flex_div.find_all("p"):
             text = p.get_text(strip=True)
             if "Test Type" in text:
