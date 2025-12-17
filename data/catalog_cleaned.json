@@ -4,7 +4,7 @@
     "description": "Introducing the new 360 Digital Report from SHL! Our latest offering revolutionizes the reporting experience for our 360 products, catering to the modern user's needs for enhanced usability and actionable insights. With a sleek, interactive interface, this report provides a exploration of feedback data, focusing on user development and comprehensive evaluation. Users can now enjoy a visually engaging experience, with the capability to download the report in PDF format for offline access. Upgrade your reporting experience today with SHL's innovative 360 Digital Report!",
     "job_levels": "Director, Manager, Entry-Level, Executive, Front Line Manager, General Population, Graduate,",
     "test_type": [
-      "D"
+      "Development & 360"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
@@ -18,8 +18,8 @@
     "languages": "Latin American Spanish, Romanian, French (Canada), Czech, Hungarian, Indonesian, Turkish, Serbian, Portuguese (Brazil), Chinese Traditional, Slovak, Thai, English International, Dutch, French, German, Italian, Portuguese, Spanish, Danish, Finnish, Norwegian, Swedish, English (USA), Russian, Chinese Simplified, Icelandic, Polish, Japanese, Korean,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed",
     "test_type": [
-      "D",
-      "P"
+      "Development & 360",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
@@ -32,7 +32,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
@@ -45,7 +45,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
@@ -58,7 +58,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
@@ -71,7 +71,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
@@ -84,7 +84,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
@@ -97,7 +97,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 17",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
@@ -110,7 +110,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
@@ -123,7 +123,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
@@ -136,7 +136,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
@@ -149,7 +149,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7 minutes",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
@@ -162,7 +162,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
@@ -175,7 +175,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 16",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
@@ -188,7 +188,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
@@ -201,7 +201,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
@@ -214,7 +214,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
@@ -227,7 +227,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
@@ -240,7 +240,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
@@ -253,7 +253,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
@@ -266,7 +266,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
@@ -279,7 +279,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
@@ -292,7 +292,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
@@ -305,7 +305,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
@@ -318,7 +318,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
@@ -331,7 +331,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
@@ -344,7 +344,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
@@ -357,7 +357,7 @@
     "languages": "English International, English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = Variable",
     "test_type": [
-      "E"
+      "Assessment Exercises"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
@@ -370,7 +370,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = max 60",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
@@ -383,7 +383,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = max 60",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
@@ -396,7 +396,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = max 20",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
@@ -409,7 +409,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30 minutes",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
@@ -422,7 +422,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = max 45",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
@@ -435,7 +435,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = max 60",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
@@ -448,7 +448,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 60",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
@@ -461,7 +461,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = max 30",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
@@ -474,7 +474,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
@@ -487,7 +487,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
@@ -500,7 +500,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
@@ -513,8 +513,8 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "S",
-      "K"
+      "Simulations",
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
@@ -527,7 +527,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
@@ -540,7 +540,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
@@ -553,7 +553,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
@@ -566,7 +566,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 16",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
@@ -579,7 +579,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 24",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
@@ -591,7 +591,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 35",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
@@ -604,7 +604,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
@@ -617,7 +617,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
@@ -630,7 +630,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
@@ -643,7 +643,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 4",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
@@ -656,7 +656,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
@@ -669,7 +669,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
@@ -682,7 +682,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
@@ -695,7 +695,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
@@ -708,7 +708,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
@@ -721,7 +721,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
@@ -734,7 +734,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
@@ -747,7 +747,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
@@ -759,7 +759,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
@@ -772,7 +772,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
@@ -785,7 +785,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
@@ -798,8 +798,8 @@
     "languages": "English (USA), English (Australia), English (Canada), English International, English (South Africa),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K",
-      "S"
+      "Knowledge & Skills",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
@@ -812,7 +812,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
@@ -825,7 +825,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
@@ -838,8 +838,8 @@
     "languages": "French (Canada), Portuguese (Brazil), Dutch, Italian, Spanish, French, Latin American Spanish, Chinese Simplified, English (Australia), English International, English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "B",
-      "S"
+      "Biodata & Situational Judgement",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
@@ -852,9 +852,9 @@
     "languages": "French (Canada), Italian, French, Dutch, Spanish, Portuguese (Brazil), Chinese Simplified, English (Australia), Latin American Spanish, English (USA), English International,",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "B",
-      "P",
-      "S"
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
@@ -867,7 +867,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
@@ -880,7 +880,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
@@ -893,7 +893,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 4",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
@@ -906,7 +906,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
@@ -919,7 +919,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 3",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
@@ -932,7 +932,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 14",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
@@ -945,7 +945,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 25",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
@@ -958,7 +958,7 @@
     "languages": "Portuguese (Brazil), Chinese Traditional, Danish, Dutch, Finnish, French, German, Icelandic, Chinese Simplified, English International, Italian, Latin American Spanish, Polish, Swedish, English (USA), Norwegian, Russian,",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
@@ -971,7 +971,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 3",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
@@ -984,7 +984,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
@@ -997,7 +997,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
@@ -1008,7 +1008,7 @@
     "description": "This participant-oriented report is aimed employees with management responsibilities and summarizes the way that they have described their typical style at work and is interpreted against SHL's Digital Readiness Framework. The report describes the way the person typically behaves, rather than their actual skill levels. It gives an indication of the individual's likely strengths in each area and makes suggestions for development activities, based upon the information gained from the\r\nquestionnaire.Note: this report is specifically aimed at managers. A version designed for individual contributors is also available (seeDigital Readiness Report - IC).",
     "job_levels": "Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Supervisor, Director,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
@@ -1020,7 +1020,7 @@
     "description": "This participant-oriented report is aimed at individual contributors (non-managerial) and summarizes the way that they have described their typical style at work and is interpreted against SHL's Digital Readiness Framework. The report describes the way the person typically behaves, rather than their actual skill levels. It gives an indication of the individual's likely strengths in each area and makes suggestions for development activities, based upon the information gained from the\r\nquestionnaire.Note: this report is specifically aimed at Individual Contributors. A version designed for Managers is also available (seeDigital Readiness Report - Managers).",
     "job_levels": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
@@ -1034,7 +1034,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
@@ -1047,7 +1047,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
@@ -1060,7 +1060,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 17",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
@@ -1071,7 +1071,7 @@
     "description": "DSI v1.1 Interpretation Report",
     "languages": "Portuguese (Brazil), Dutch, Finnish, French, Latin American Spanish, Norwegian, Swedish, English (USA), English International, Chinese Simplified, Chinese Traditional, Danish, German, Icelandic, Italian, Russian,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
@@ -1085,7 +1085,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
@@ -1098,7 +1098,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
@@ -1111,7 +1111,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 14",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
@@ -1124,7 +1124,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
@@ -1137,7 +1137,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 18",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
@@ -1150,7 +1150,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
@@ -1163,7 +1163,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
@@ -1176,7 +1176,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 0",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
@@ -1189,7 +1189,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 4",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
@@ -1200,7 +1200,7 @@
     "description": "Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.\r\nFor more information, visit: \r\nhttps://www.shl.com/en/solutions/identify-develop-leaders/enterprise-leadership/ .",
     "job_levels": "Director, Executive, Manager, Mid-Professional,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
@@ -1212,7 +1212,7 @@
     "description": "Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.\r\nFor more information, visit: \r\nhttps://www.shl.com/en/solutions/identify-develop-leaders/enterprise-leadership/ .",
     "job_levels": "Director, Executive, Manager, Mid-Professional,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
@@ -1226,8 +1226,8 @@
     "languages": "English (USA), English International, French (Canada), German, Italian, French, Dutch, Norwegian, Finnish, Swedish, Danish, Arabic, Chinese Simplified, Latin American Spanish,",
     "assessment_length": "Approximate Completion Time in minutes = 19",
     "test_type": [
-      "C",
-      "P"
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
@@ -1240,8 +1240,8 @@
     "languages": "Latin American Spanish, German, French, Chinese Simplified, Swedish, Arabic, English International, English (USA), French (Canada), Italian, Dutch, Norwegian, Finnish, Danish,",
     "assessment_length": "Approximate Completion Time in minutes = 19",
     "test_type": [
-      "P",
-      "C"
+      "Personality & Behavior",
+      "Competencies"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
@@ -1254,8 +1254,8 @@
     "languages": "English (USA), English International, French (Canada), Italian, Dutch, Norwegian, Finnish, Danish, Latin American Spanish, German, French, Chinese Simplified, Swedish, Arabic,",
     "assessment_length": "Approximate Completion Time in minutes = 14",
     "test_type": [
-      "C",
-      "P"
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
@@ -1268,8 +1268,8 @@
     "languages": "French (Canada), Italian, French, Chinese Simplified, Swedish, Arabic, English (USA), English International, Latin American Spanish, German, Dutch, Norwegian, Finnish, Danish,",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "C",
-      "P"
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
@@ -1282,8 +1282,8 @@
     "languages": "German, Italian, Chinese Simplified, Finnish, Danish, English (USA), English International, Latin American Spanish, French (Canada), French, Dutch, Norwegian, Swedish, Arabic,",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "C",
-      "P"
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
@@ -1296,8 +1296,8 @@
     "languages": "Latin American Spanish, German, Chinese Simplified, Finnish, Danish, English (USA), English International, French (Canada), Italian, French, Dutch, Norwegian, Swedish, Arabic,",
     "assessment_length": "Approximate Completion Time in minutes = 18",
     "test_type": [
-      "P",
-      "C"
+      "Personality & Behavior",
+      "Competencies"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
@@ -1310,7 +1310,7 @@
     "languages": "English International, French, English (USA), Chinese Simplified, Italian, Japanese, Latin American Spanish, German,",
     "assessment_length": "Approximate Completion Time in minutes = 16",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
@@ -1323,7 +1323,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
@@ -1334,7 +1334,7 @@
     "description": "Executive Scenarios is a unique test of Managerial Judgement - an individual\u2019s ability to decide on effective ways of handling real life situations. It is specifically designed to assess judgement in Executives; a group who typically has significant work experience to draw on. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries.\r\n\r\nReports available: \r\n\r\nExecutive Scenarios Narrative Report:  A participant focused report that contains;  \r\n - Executive Scenarios profile\r\n - VERY detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Development tips for each of the 6 style scales;  Leading and Managing the work, Using external help, One-to-one, Workforce, Organisational support, Commercial support.\r\n\r\nExecutive Scenarios Profile: Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
     "job_levels": "Director, Executive, Manager,",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
@@ -1346,7 +1346,7 @@
     "description": "Executive Scenarios is a unique test of Managerial Judgement - an individual\u2019s ability to decide on effective ways of handling real life situations. It is specifically designed to assess judgement in Executives; a group who typically has significant work experience to draw on. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries.\r\n\r\nReports available: \r\n\r\nExecutive Scenarios Narrative Report:  A participant focused report that contains;  \r\n - Executive Scenarios profile\r\n - VERY detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Development tips for each of the 6 style scales;  Leading and Managing the work, Using external help, One-to-one, Workforce, Organisational support, Commercial support.\r\n\r\nExecutive Scenarios Profile: Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
     "job_levels": "Director, Executive, Manager,",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
@@ -1360,7 +1360,7 @@
     "languages": "Italian, English (USA), English International, Korean,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
@@ -1373,7 +1373,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
@@ -1386,7 +1386,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 3",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
@@ -1399,7 +1399,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 3",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
@@ -1412,7 +1412,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
@@ -1425,7 +1425,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
@@ -1438,7 +1438,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
@@ -1451,7 +1451,7 @@
     "languages": "English International,",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
@@ -1464,7 +1464,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
@@ -1477,7 +1477,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
@@ -1490,7 +1490,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
@@ -1503,7 +1503,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
@@ -1516,7 +1516,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
@@ -1529,7 +1529,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
@@ -1542,7 +1542,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
@@ -1555,7 +1555,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
@@ -1568,7 +1568,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
@@ -1581,7 +1581,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/git-new/",
@@ -1593,8 +1593,8 @@
     "languages": "Indonesian, Italian, Swedish, Thai, Portuguese (Brazil), French (Canada), Chinese Simplified, Danish, Finnish, French, German, English International, Japanese, Korean, Latin American Spanish, Norwegian, Polish, Romanian, Spanish, Vietnamese, Chinese Traditional, Arabic, English (USA), Dutch, Portuguese, Turkish,",
     "assessment_length": "Approximate Completion Time in minutes = 16",
     "test_type": [
-      "C",
-      "K"
+      "Competencies",
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
@@ -1605,12 +1605,12 @@
     "description": "This report is designed to be given to individuals who have completed the Global Skills Assessment (GSA). With coverage across the Great 8 Domains, this measure of self-reported behaviors offers a complete overview of their current skills. Participants receive actionable tips on leveraging their top skill strengths and how they might develop their growth skills.",
     "job_levels": "Director, Entry-Level, Executive, General Population, Graduate, Manager, Mid-Professional, Front Line Manager, Supervisor,",
     "test_type": [
-      "A",
-      "E",
-      "B",
-      "C",
-      "D",
-      "P"
+      "Ability & Aptitude",
+      "Assessment Exercises",
+      "Biodata & Situational Judgement",
+      "Competencies",
+      "Development & 360",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
@@ -1622,7 +1622,7 @@
     "description": "Graduate Scenarios is a unique test of Managerial Judgement - an individual\u2019s ability to decide on effective ways of handling real life situations. It is specifically designed to assess judgement in graduates; a group who typically has limited work experience to draw on. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries. \r\n\r\nReports available: \r\n\r\nGraduate Scenarios Narrative Report: A participant focused report that contains; \r\n- Graduate Scenarios profile \r\n- Feedback report (with development tips) breaking down the overall Managerial judgement results into each of the 3 sub-scales; Managing Objectives, People Management and Corporate Management. \r\n\r\nGraduate Scenarios Profile: Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
     "job_levels": "Mid-Professional, Professional Individual Contributor, Manager, Graduate,",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
@@ -1634,7 +1634,7 @@
     "description": "Graduate Scenarios is a unique test of Managerial Judgement - an individual\u2019s ability to decide on effective ways of handling real life situations. It is specifically designed to assess judgement in graduates; a group who typically has limited work experience to draw on. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries. \r\n\r\nReports available: \r\n\r\nGraduate Scenarios Narrative Report: A participant focused report that contains; \r\n- Graduate Scenarios profile \r\n- Feedback report (with development tips) breaking down the overall Managerial judgement results into each of the 3 sub-scales; Managing Objectives, People Management and Corporate Management. \r\n\r\nGraduate Scenarios Profile: Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
     "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor,",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
@@ -1648,7 +1648,7 @@
     "languages": "English International,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
@@ -1661,7 +1661,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
@@ -1674,7 +1674,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15 to 35",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
@@ -1684,8 +1684,8 @@
     "name": "HiPo Assessment Report 1.0",
     "description": "Part of SHL\u2019s High Potential solution and developed from SHL\u2019s extensive research into high-potential programs, the HIPO Assessment Report 1.0 helps organizations identify individuals with the strongest potential to succeed in senior and challenging roles. Using assessments such as the Motivation Questionnaire, OPQ, and Verify Cognitive Ability Tests, the report evaluates critical areas of aspiration, ability, and engagement. This version is used in regions where normed data for Verify Gen 1 and UCF 1 continue to provide the most relevant benchmarks, offering organizations proven insights for high-potential identification and talent development.",
     "test_type": [
-      "C",
-      "P"
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
@@ -1696,8 +1696,8 @@
     "name": "HiPo Assessment Report 2.0",
     "description": "Part of SHL\u2019s High Potential solution and developed from SHL\u2019s extensive research into high-potential programs, the HIPO Assessment Report 2.0 helps organizations identify individuals with the strongest potential to succeed in senior and challenging roles. Using assessments such as the Motivation Questionnaire, OPQ, and Verify Cognitive Ability Tests, the report evaluates critical areas of aspiration, ability, and engagement. This report equips organizations with data-driven insights for identifying and developing future leaders, helping to ensure long-term organizational success.",
     "test_type": [
-      "C",
-      "P"
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
@@ -1708,7 +1708,7 @@
     "name": "HiPo Unlocking Potential Report 2.0",
     "description": "This report draws insights from the Occupational Personality QuestionnaireTM (OPQ32). Used for individuals who are selected into a client\u2019s HiPo program, it provides a detailed analysis of managerial and leadership potential.",
     "test_type": [
-      "C"
+      "Competencies"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
@@ -1722,7 +1722,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
@@ -1735,7 +1735,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
@@ -1748,7 +1748,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
@@ -1761,7 +1761,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
@@ -1774,7 +1774,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
@@ -1787,7 +1787,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
@@ -1800,7 +1800,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
@@ -1813,7 +1813,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
@@ -1826,7 +1826,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
@@ -1839,7 +1839,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
@@ -1852,7 +1852,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15 to 35",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
@@ -1865,7 +1865,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15 to 35",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
@@ -1878,7 +1878,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
@@ -1891,7 +1891,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
@@ -1904,7 +1904,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
@@ -1917,7 +1917,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 18",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
@@ -1930,7 +1930,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
@@ -1943,7 +1943,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 17",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
@@ -1956,7 +1956,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
@@ -1969,7 +1969,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
@@ -1982,7 +1982,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
@@ -1995,7 +1995,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
@@ -2008,7 +2008,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
@@ -2021,7 +2021,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
@@ -2034,7 +2034,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
@@ -2047,7 +2047,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
@@ -2060,7 +2060,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
@@ -2073,7 +2073,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 25",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
@@ -2086,7 +2086,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
@@ -2099,7 +2099,7 @@
     "languages": "Italian, English International, Korean, Arabic,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
@@ -2110,7 +2110,7 @@
     "description": "Managerial Scenarios is a unique test of Managerial Judgement - an individual\u2019s ability to decide on effective ways of handling real life situations. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries.\r\n\r\nReports available:\r\n\r\nManagement Scenarios Narrative Report:  A participant focused report that contains;  \r\n - Management Scenarios profile\r\n - Detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Table of scores for each of the 6 style scales;  Big picture, Delegative, One-to-one, Team, Personal recognition and Company Protocol.\r\n - Detailed narrative feedback report (with development tips) for each of the 6 style scales.\r\n\r\nManagement Scenarios Candidate Report:  A report to share with the candidate that contains: \r\n - Detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Table of scores for each of the 6 style scales;  Big picture, Delegative, One-to-one, Team, Personal recognition and Company Protocol.\r\n - Detailed narrative feedback report (with development tips) for each of the 6 style scales.\r\n\r\nManagement Scenarios Profile:  Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
     "job_levels": "Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
@@ -2122,7 +2122,7 @@
     "description": "Managerial Scenarios is a unique test of Managerial Judgement - an individual\u2019s ability to decide on effective ways of handling real life situations. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries.\r\n\r\nReports available:\r\n\r\nManagement Scenarios Narrative Report:  A participant focused report that contains;  \r\n - Management Scenarios profile\r\n - Detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Table of scores for each of the 6 style scales;  Big picture, Delegative, One-to-one, Team, Personal recognition and Company Protocol.\r\n - Detailed narrative feedback report (with development tips) for each of the 6 style scales.\r\n\r\nManagement Scenarios Candidate Report:  A report to share with the candidate that contains: \r\n - Detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Table of scores for each of the 6 style scales;  Big picture, Delegative, One-to-one, Team, Personal recognition and Company Protocol.\r\n - Detailed narrative feedback report (with development tips) for each of the 6 style scales.\r\n\r\nManagement Scenarios Profile:  Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
     "job_levels": "Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
@@ -2134,7 +2134,7 @@
     "description": "Managerial Scenarios is a unique test of Managerial Judgement - an individual\u2019s ability to decide on effective ways of handling real life situations. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries.\r\n\r\nReports available:\r\n\r\nManagement Scenarios Narrative Report:  A participant focused report that contains;  \r\n - Management Scenarios profile\r\n - Detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Table of scores for each of the 6 style scales;  Big picture, Delegative, One-to-one, Team, Personal recognition and Company Protocol.\r\n - Detailed narrative feedback report (with development tips) for each of the 6 style scales.\r\n\r\nManagement Scenarios Candidate Report:  A report to share with the candidate that contains: \r\n - Detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Table of scores for each of the 6 style scales;  Big picture, Delegative, One-to-one, Team, Personal recognition and Company Protocol.\r\n - Detailed narrative feedback report (with development tips) for each of the 6 style scales.\r\n\r\nManagement Scenarios Profile:  Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
     "job_levels": "Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
     "test_type": [
-      "B"
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
@@ -2148,7 +2148,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
@@ -2161,7 +2161,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
@@ -2174,7 +2174,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
@@ -2187,8 +2187,8 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 49",
     "test_type": [
-      "A",
-      "P"
+      "Ability & Aptitude",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
@@ -2201,7 +2201,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
@@ -2214,8 +2214,8 @@
     "languages": "English (USA), English International, Italian, Japanese, Latin American Spanish, Chinese Simplified,",
     "assessment_length": "Approximate Completion Time in minutes = 31",
     "test_type": [
-      "A",
-      "P"
+      "Ability & Aptitude",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
@@ -2228,7 +2228,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 19",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
@@ -2241,7 +2241,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 3",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
@@ -2254,7 +2254,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
@@ -2264,7 +2264,7 @@
     "name": "MFS 360 Enterprise Leadership Report",
     "description": "The layout of this report follows the standard MFS 360 report but this is based on the Enterprise Leadership competency model, not the UCF model. The report text has been updated as well to reflect that.",
     "test_type": [
-      "D"
+      "Development & 360"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
@@ -2275,7 +2275,7 @@
     "name": "MFS 360 UCF Group Report",
     "description": "This report follows the standard layout of the 360 report but incorporates the average scores for a group of participants. The report can be generated for all participants on a project, or a dedicated group can be created in MFS for a group that includes participants across multiple projects. The report does not include the open questions even when they were part of the questionnaire. Developments tips are not available in this report.",
     "test_type": [
-      "D"
+      "Development & 360"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
@@ -2286,7 +2286,7 @@
     "name": "MFS 360 UCF Performance Potential Dev Tips Report",
     "description": "This report is more or less identical to the standard MFS report but with an additional section that looks at the performance versus the potential and plots the competencies on a four field grid to identify developed strengths, natural strengths, development need, or untapped potential.  The report text has been updated to reflect the inclusion of the OPQ, and the potential is also shown in the competency summary part of the report. The OPQ scores that feed into this report will need to be uploaded into MFS using an upload sheet based on a score extract from SODA or TC. This particular example report also includes development tips which are an optional extra.",
     "test_type": [
-      "D"
+      "Development & 360"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
@@ -2297,7 +2297,7 @@
     "name": "MFS 360 UCF Standard Report",
     "description": "This is the default MFS report. It is based on the UCF20 competency model. The report will only show those scales that were selected as part of the questionnaire setup. The importance rating, open questions and multiple choice questions are optional parts of the questionnaire. Only if those parts were added to the questionnaire will they show in the report. Open and multiple Choice questions are of the clients\u2019 own design. The example report here does not include developments tips, but those can be added if requested (see performance and potential report for examples of that).",
     "test_type": [
-      "D"
+      "Development & 360"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
@@ -2311,7 +2311,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
@@ -2324,7 +2324,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
@@ -2337,7 +2337,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
@@ -2350,8 +2350,8 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "K",
-      "S"
+      "Knowledge & Skills",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
@@ -2364,8 +2364,8 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 35",
     "test_type": [
-      "K",
-      "S"
+      "Knowledge & Skills",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
@@ -2378,7 +2378,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 25",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
@@ -2391,8 +2391,8 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 25",
     "test_type": [
-      "K",
-      "S"
+      "Knowledge & Skills",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
@@ -2405,7 +2405,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 35",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
@@ -2418,7 +2418,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 35",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
@@ -2431,8 +2431,8 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 25",
     "test_type": [
-      "K",
-      "S"
+      "Knowledge & Skills",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
@@ -2445,8 +2445,8 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 35",
     "test_type": [
-      "S",
-      "K"
+      "Simulations",
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
@@ -2459,7 +2459,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
@@ -2472,7 +2472,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 16",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
@@ -2485,7 +2485,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
@@ -2498,7 +2498,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
@@ -2511,7 +2511,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
@@ -2524,7 +2524,7 @@
     "languages": "Latin American Spanish, Portuguese (Brazil), Latvian, Danish, Indonesian, Swedish, Turkish, Portuguese, French (Canada), Japanese, Chinese Traditional, Flemish, French (Belgium), Spanish, Finnish, French, German, Greek, Italian, Polish, Romanian, Russian, English International, English (USA), Chinese Simplified, Dutch, Hungarian, Norwegian, Czech, Slovak, English (Australia), Arabic, Korean,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed, approx. 25",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
@@ -2536,7 +2536,7 @@
     "job_levels": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English International, English (USA), Chinese Simplified,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
@@ -2549,7 +2549,7 @@
     "job_levels": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Chinese Simplified, English International, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
@@ -2562,7 +2562,7 @@
     "job_levels": "General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director, Entry-Level, Executive, Front Line Manager,",
     "languages": "Chinese Simplified, English International, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
@@ -2575,7 +2575,7 @@
     "job_levels": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Flemish, French (Belgium), Spanish, Danish, Dutch, Finnish, French (Canada), French, German, Greek, Italian, Norwegian, Polish, Portuguese, Russian, Swedish, English International, English (USA), Romanian, Indonesian, Turkish, Chinese Simplified, Hungarian,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
@@ -2589,7 +2589,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
@@ -2602,7 +2602,7 @@
     "languages": "English (USA), Spanish, French, Portuguese (Brazil),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
@@ -2615,7 +2615,7 @@
     "languages": "English (USA), Spanish, Portuguese (Brazil), French,",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
@@ -2628,7 +2628,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
@@ -2641,7 +2641,7 @@
     "languages": "English (USA), French, Spanish, Portuguese (Brazil),",
     "assessment_length": "Approximate Completion Time in minutes = 4",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
@@ -2654,7 +2654,7 @@
     "languages": "Spanish, French, Portuguese (Brazil), English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 4",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
@@ -2667,7 +2667,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 17",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
@@ -2680,9 +2680,9 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "A",
-      "K",
-      "S"
+      "Ability & Aptitude",
+      "Knowledge & Skills",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
@@ -2695,7 +2695,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
@@ -2708,7 +2708,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 17",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
@@ -2721,7 +2721,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
@@ -2734,7 +2734,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
@@ -2747,7 +2747,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
@@ -2760,7 +2760,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
@@ -2773,7 +2773,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
@@ -2786,7 +2786,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
@@ -2799,7 +2799,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
@@ -2812,7 +2812,7 @@
     "languages": "English International, French (Canada), Portuguese, Chinese Simplified, Chinese Traditional, French (Belgium), French, Polish, Slovak, Czech, Danish, Flemish, Dutch, Estonian, Finnish, German, Greek, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, English (USA), Arabic, Portuguese (Brazil), Spanish, Latin American Spanish, Romanian, Russian, Serbian, Swedish, Thai, Turkish, Malay, Vietnamese,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed, approx. 25",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
@@ -2825,7 +2825,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
@@ -2837,7 +2837,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Finnish, English International,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
@@ -2848,7 +2848,7 @@
     "name": "OPQ Candidate Report 2.0",
     "description": "A brief narrative OPQ (Occupational Personality Questionnaire) report structure around 3 OPQ profile sections which can be given to candidates to keep after a feedback session",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
@@ -2861,7 +2861,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Portuguese (Brazil), Danish, Dutch, Finnish, French (Canada), French, Latin American Spanish, Portuguese, Swedish, English International, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
@@ -2874,7 +2874,7 @@
     "job_levels": "Director, Executive, Manager, Mid-Professional, Professional Individual Contributor,",
     "languages": "Dutch, English International, English (USA), Romanian, Portuguese, French, German, Swedish, Chinese Simplified, Portuguese (Brazil), Japanese, Polish, Russian, Latin American Spanish,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
@@ -2886,7 +2886,7 @@
     "description": "This concise OPQ (Occupational Personality Questionnaire) report is designed for use with and by managers. It uses clear succinct bullets and tables for ease of interpretation. It provides simple comments on each of the personality traits.",
     "job_levels": "Supervisor, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Director, Entry-Level,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
@@ -2899,7 +2899,7 @@
     "job_levels": "Director, Entry-Level, Executive, Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
     "languages": "Romanian, Czech, Serbian, Portuguese (Brazil), Spanish, Chinese Traditional, Danish, Dutch, Finnish, French (Canada), French, German, Greek, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Latin American Spanish, Norwegian, Polish, Portuguese, Russian, Chinese Simplified, Swedish, Thai, Turkish, English International, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
@@ -2912,7 +2912,7 @@
     "job_levels": "Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director,",
     "languages": "Danish, Dutch, Portuguese, Swedish, English International,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
@@ -2925,7 +2925,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Portuguese (Brazil), Spanish, Danish, Dutch, Finnish, French (Canada), French, German, Greek, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Latin American Spanish, Norwegian, Polish, Russian, Chinese Simplified, Swedish, Thai, Turkish, English International, English (USA), Chinese Traditional, Portuguese, Romanian,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
@@ -2937,7 +2937,7 @@
     "description": "This OPQ (Occupational Personality Questionnaire) report contains a selection of reports including OPQ profile, user report, manager plus report, candidate plus report, universal competency report, team impact selection report.",
     "job_levels": "Manager, Graduate, Mid-Professional, Professional Individual Contributor, Director, General Population, Entry-Level, Executive, Front Line Manager, Supervisor,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
@@ -2950,7 +2950,7 @@
     "job_levels": "Supervisor, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Director, Executive,",
     "languages": "English International,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
@@ -2963,7 +2963,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Arabic, Romanian, Slovak, Serbian, Chinese Simplified, Chinese Traditional, Danish, Flemish, Dutch, English International, Finnish, French (Belgium), French (Canada), French, German, Greek, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese (Brazil), Portuguese, Russian, Latin American Spanish, Spanish, Swedish, Thai, Turkish, English (USA), Czech, Estonian, Latvian, Lithuanian,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
@@ -2976,7 +2976,7 @@
     "job_levels": "Executive, Director, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Danish, English International, Finnish, Dutch, Norwegian, Swedish, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
@@ -2989,7 +2989,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English International, Danish, Dutch, Finnish, Latin American Spanish, Norwegian, Swedish, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
@@ -3002,7 +3002,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Danish, Dutch, Finnish, Latin American Spanish, Norwegian, Swedish, English International, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
@@ -3015,7 +3015,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Flemish, French (Belgium), Portuguese (Brazil), Danish, French (Canada), French, German, Italian, Latin American Spanish, Norwegian, Portuguese, Swedish, Turkish, English International, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
@@ -3028,7 +3028,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Flemish, French (Belgium), Portuguese (Brazil), Danish, Dutch, Finnish, French (Canada), French, Italian, Latin American Spanish, Norwegian, Portuguese, English International, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
@@ -3040,7 +3040,7 @@
     "description": "This OPQ (Occupational Personality Questionnaire) report provides clear and relevant information about an individual's strengths and areas for development, for use in staff development and on-boarding situations.",
     "job_levels": "Director, Executive, Front Line Manager, Manager, Graduate, General Population, Professional Individual Contributor, Supervisor, Mid-Professional,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
@@ -3053,7 +3053,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English International, English (USA), Dutch, French, German, Norwegian, Swedish, Japanese, Portuguese, Chinese Simplified, Italian, Danish, Finnish, Latin American Spanish, Portuguese (Brazil),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
@@ -3065,7 +3065,7 @@
     "description": "This OPQ (Occupational Personality Questionnaire) report is based on the Universal Competency framework.  It graphically outlines how an individual's typical way of behaving is likely to impact on competencies.  It provides a graphical scale for each competency and summarises aspects of personality which contribute (positively or negatively) to each competency.",
     "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director, Executive, Front Line Manager, General Population,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
@@ -3078,7 +3078,7 @@
     "job_levels": "Graduate, Director, Executive, Front Line Manager, General Population, Supervisor, Manager, Mid-Professional, Professional Individual Contributor,",
     "languages": "Czech, Romanian, Slovak, Serbian, Portuguese (Brazil), Spanish, Chinese Traditional, Danish, Dutch, Finnish, French (Canada), French, German, Greek, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Latin American Spanish, Norwegian, Polish, Portuguese, Russian, Chinese Simplified, Swedish, Thai, Turkish, English International, English (USA),",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
@@ -3091,7 +3091,7 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Flemish, French (Belgium), Danish, Finnish, French, Italian, Norwegian, Portuguese, English International,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
@@ -3104,8 +3104,8 @@
     "job_levels": "Director, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "Flemish, French (Belgium), Spanish, Danish, Dutch, Finnish, French, German, Italian, Norwegian, Portuguese, English International, English (USA), Portuguese (Brazil), French (Canada), Latin American Spanish,",
     "test_type": [
-      "P",
-      "S"
+      "Personality & Behavior",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
@@ -3119,7 +3119,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
@@ -3132,7 +3132,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
@@ -3145,7 +3145,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
@@ -3158,7 +3158,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
@@ -3171,7 +3171,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
@@ -3184,7 +3184,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
@@ -3197,7 +3197,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
@@ -3210,7 +3210,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 17",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
@@ -3223,7 +3223,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
@@ -3236,7 +3236,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
@@ -3249,7 +3249,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
@@ -3262,7 +3262,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
@@ -3275,7 +3275,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 17",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
@@ -3288,7 +3288,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
@@ -3301,7 +3301,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
@@ -3314,7 +3314,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
@@ -3327,7 +3327,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/php-new/",
@@ -3339,9 +3339,9 @@
     "job_levels": "Mid-Professional, Graduate, Manager,",
     "languages": "Italian, English International, English (USA), French (Canada), Portuguese (Brazil), Latin American Spanish,",
     "test_type": [
-      "C",
-      "A",
-      "P"
+      "Competencies",
+      "Ability & Aptitude",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
@@ -3354,9 +3354,9 @@
     "job_levels": "Mid-Professional, Manager,",
     "languages": "Italian, English International, English (USA), Portuguese (Brazil), Latin American Spanish, French (Canada),",
     "test_type": [
-      "A",
-      "C",
-      "P"
+      "Ability & Aptitude",
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
@@ -3370,7 +3370,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
@@ -3383,7 +3383,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
@@ -3396,7 +3396,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
@@ -3409,7 +3409,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 4",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
@@ -3422,7 +3422,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
@@ -3435,7 +3435,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
@@ -3448,7 +3448,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 25",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
@@ -3461,7 +3461,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
@@ -3474,7 +3474,7 @@
     "languages": "English International, English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
@@ -3487,7 +3487,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/python-new/",
@@ -3500,7 +3500,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 13",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
@@ -3513,7 +3513,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
@@ -3526,7 +3526,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 35",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
@@ -3539,7 +3539,7 @@
     "languages": "Latin American Spanish,",
     "assessment_length": "Approximate Completion Time in minutes = 26",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
@@ -3552,7 +3552,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 35",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
@@ -3563,7 +3563,7 @@
     "description": "Using the Apta\u2122 Architecture to focus on the relevant competency behaviors in the Universal Competency Framework, SHL developed the RemoteWorkQ to measure self-reported behavioral tendencies in competency areas that are important to performing effectively in remote work environments across three competency areas: \r\no\tWork Relationships\r\no\tWork Habits\r\no\tSelf-Development & Well-Being\r\nThe RemoteWorkQ is intended for use across job families and levels for which working in a remote environment is important for the role. This report is designed to help you be more successful in a remote working environment by providing:\r\no\tInsights into your identified strengths and potential risks for working remotely\r\no\tIndividualized coaching tips on how you can use your identified strengths to overcome risks",
     "job_levels": "Director, Executive, Front Line Manager, Graduate, General Population, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Entry-Level,",
     "test_type": [
-      "C"
+      "Competencies"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
@@ -3575,7 +3575,7 @@
     "description": "Using the Apta\u2122 Architecture to focus on the relevant competency behaviors in the Universal Competency Framework, SHL developed the RemoteWorkQ to measure self-reported behavioral tendencies in competency areas that are important to performing effectively in remote work environments across three competency areas: \r\no\tWork Relationships\r\no\tWork Habits\r\no\tSelf-Development & Well-Being\r\nThe RemoteWorkQ is intended for use across job families and levels for which working in a remote environment is important for the role. This report is designed to help you be more successful in a remote working environment by providing:\r\no\tInsights into your identified strengths and potential risks for working remotely\r\no\tIndividualized coaching tips on how you can use your identified strengths to overcome risks",
     "job_levels": "General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director, Entry-Level, Executive, Front Line Manager,",
     "test_type": [
-      "C"
+      "Competencies"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
@@ -3589,7 +3589,7 @@
     "languages": "English (USA), Arabic, Italian, Chinese Simplified, Portuguese, Turkish, Portuguese (Brazil), Indonesian, English International, Spanish, Latin American Spanish, French (Canada), German, Dutch, French,",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "C"
+      "Competencies"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
@@ -3602,7 +3602,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
@@ -3615,10 +3615,10 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "B",
-      "K",
-      "S",
-      "A"
+      "Biodata & Situational Judgement",
+      "Knowledge & Skills",
+      "Simulations",
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
@@ -3631,7 +3631,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
@@ -3644,7 +3644,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
@@ -3657,7 +3657,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
@@ -3670,7 +3670,7 @@
     "languages": "English (USA), German, Latin American Spanish, French, English International, Chinese Simplified, Italian, Japanese,",
     "assessment_length": "Approximate Completion Time in minutes = 16",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
@@ -3683,8 +3683,8 @@
     "languages": "English (USA), English (Australia), English International, Chinese Simplified, French, Spanish, Portuguese (Brazil), Italian, Dutch, Latin American Spanish, French (Canada), German,",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "S",
-      "B"
+      "Simulations",
+      "Biodata & Situational Judgement"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
@@ -3697,9 +3697,9 @@
     "languages": "English (USA), Latin American Spanish, English (Australia), English International, Chinese Simplified, Spanish, German, Dutch, Italian, French, Portuguese (Brazil), French (Canada),",
     "assessment_length": "Approximate Completion Time in minutes = 35",
     "test_type": [
-      "B",
-      "P",
-      "S"
+      "Biodata & Situational Judgement",
+      "Personality & Behavior",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
@@ -3712,8 +3712,8 @@
     "languages": "English International,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed",
     "test_type": [
-      "P",
-      "P"
+      "Personality & Behavior",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
@@ -3726,7 +3726,7 @@
     "languages": "English International, Finnish,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
@@ -3737,7 +3737,7 @@
     "description": "This report combines insights from the OPQ and a Sales Management questionnaire. It provides an accurate and objective measure of a sales manager\u2019s capability to lead a sales team undergoing a sales transformation process. Insights included in this report include an overall job-fit score, and individual scores and score narratives for the behaviours included in SHL\u2019s Sales Transformation behavioural model.",
     "job_levels": "Director, Executive, Front Line Manager, Manager, Supervisor,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
@@ -3749,7 +3749,7 @@
     "description": "This report draws insights from the OPQ. It provides an accurate and objective measure of a salesperson\u2019s ability to sell well in a digital first environment. Insights included in this report include individual scores and score narratives for the behaviours included in SHL\u2019s Sales Transformation behavioural model.",
     "job_levels": "Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
@@ -3761,7 +3761,7 @@
     "description": "This report combines insights from the OPQ and a Sales Management questionnaire. It provides an accurate and objective measure of a sales manager\u2019s capability to lead a sales team undergoing a sales transformation process. Insights included in this report include an overall job-fit score, and individual scores and score narratives for the behaviours included in SHL\u2019s Sales Transformation behavioural model.",
     "job_levels": "Director, Executive, Front Line Manager, Manager, Supervisor,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
@@ -3775,7 +3775,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
@@ -3786,7 +3786,7 @@
     "description": "This report draws insights from the OPQ. It provides an accurate and objective measure of a salesperson\u2019s ability to sell well in a digital first environment. Insights included in this report include individual scores and score narratives for the behaviours included in SHL\u2019s Sales Transformation behavioural model.",
     "job_levels": "Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
@@ -3800,7 +3800,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
@@ -3813,7 +3813,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
@@ -3826,7 +3826,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
@@ -3839,7 +3839,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
@@ -3852,7 +3852,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
@@ -3865,7 +3865,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = TBC",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
@@ -3878,7 +3878,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
@@ -3891,7 +3891,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
@@ -3904,7 +3904,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
@@ -3917,7 +3917,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
@@ -3930,7 +3930,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
@@ -3943,7 +3943,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
@@ -3956,8 +3956,8 @@
     "languages": "Chinese Traditional, Romanian, Turkish, Polish, Greek, Latin American Spanish, Portuguese (Brazil), Japanese, Hungarian, Czech, French (Canada), Slovak, Serbian, English International, English (USA), German, Italian, Indonesian, Korean, Russian, Arabic, Danish, Finnish, Norwegian, Swedish, Estonian, Latvian, Lithuanian, French, Dutch, Chinese Simplified, Spanish, Portuguese,",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "A",
-      "S"
+      "Ability & Aptitude",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
@@ -3970,7 +3970,7 @@
     "languages": "English (USA), Chinese Traditional, Korean, Serbian, Slovak, Spanish, English International, Danish, Swedish, Norwegian, Finnish, Latvian, Lithuanian, Estonian, Portuguese, Hungarian, Thai, Czech, Polish, Turkish, Portuguese (Brazil), Romanian, Latin American Spanish, Italian, French (Canada), Chinese Simplified, Dutch, German, French, Russian, Indonesian, Greek, Japanese,",
     "assessment_length": "Approximate Completion Time in minutes = 36",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
@@ -3983,8 +3983,8 @@
     "languages": "Korean, Japanese, Thai, Portuguese (Brazil), Portuguese, Chinese Traditional, Indonesian, Russian, Romanian, Polish, Greek, Latin American Spanish, English International, Arabic, Hungarian, Czech, French (Canada), Slovak, Serbian, Turkish, Spanish, Danish, Estonian, Finnish, Latvian, Lithuanian, Norwegian, Swedish, French, German, Italian, Dutch, Chinese Simplified, English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "A",
-      "S"
+      "Ability & Aptitude",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
@@ -3997,7 +3997,7 @@
     "languages": "English (USA), English International,",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
@@ -4010,8 +4010,8 @@
     "languages": "French, German, Italian, Dutch, Chinese Simplified, Danish, Finnish, Norwegian, Swedish, Estonian, Latvian, Lithuanian, English International, English (USA), Czech, Polish, Latin American Spanish, Spanish, Thai, Japanese, Korean, Portuguese, Portuguese (Brazil), Chinese Traditional, Hungarian, Indonesian, Russian, Romanian, Turkish, French (Canada), Greek, Slovak, Serbian, Arabic,",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "A",
-      "S"
+      "Ability & Aptitude",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
@@ -4024,7 +4024,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
@@ -4037,7 +4037,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = Variable",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
@@ -4050,7 +4050,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = Variable",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
@@ -4063,7 +4063,7 @@
     "languages": "English (USA), Chinese Simplified,",
     "assessment_length": "Approximate Completion Time in minutes = Variable",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
@@ -4076,7 +4076,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
@@ -4089,7 +4089,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
@@ -4102,7 +4102,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = TBC",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
@@ -4115,7 +4115,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 0",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
@@ -4128,8 +4128,8 @@
     "languages": "English (USA), English (Australia), English International,",
     "assessment_length": "Approximate Completion Time in minutes = 6",
     "test_type": [
-      "A",
-      "K"
+      "Ability & Aptitude",
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
@@ -4142,7 +4142,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
@@ -4155,7 +4155,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
@@ -4168,7 +4168,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
@@ -4181,7 +4181,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
@@ -4194,7 +4194,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
@@ -4207,7 +4207,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
@@ -4220,7 +4220,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 11",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
@@ -4233,7 +4233,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
@@ -4246,7 +4246,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = -",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
@@ -4259,7 +4259,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = -",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
@@ -4272,7 +4272,7 @@
     "languages": "English International,",
     "assessment_length": "Approximate Completion Time in minutes = -",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
@@ -4285,7 +4285,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = -",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
@@ -4298,7 +4298,7 @@
     "languages": "French (Canada),",
     "assessment_length": "Approximate Completion Time in minutes = -",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
@@ -4311,7 +4311,7 @@
     "languages": "French,",
     "assessment_length": "Approximate Completion Time in minutes = -",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
@@ -4324,7 +4324,7 @@
     "languages": "Spanish,",
     "assessment_length": "Approximate Completion Time in minutes = -",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
@@ -4337,7 +4337,7 @@
     "languages": "Latin American Spanish,",
     "assessment_length": "Approximate Completion Time in minutes = -",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
@@ -4350,7 +4350,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 4",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
@@ -4363,7 +4363,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
@@ -4376,7 +4376,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
@@ -4389,7 +4389,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
@@ -4402,7 +4402,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15 to 35",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
@@ -4415,7 +4415,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15 to 35",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/training-development/",
@@ -4428,7 +4428,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 2",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
@@ -4441,7 +4441,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
@@ -4453,8 +4453,8 @@
     "job_levels": "Director, Entry-Level, Executive, Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
     "languages": "English International, Swedish, German, Finnish,",
     "test_type": [
-      "C",
-      "P"
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
@@ -4468,8 +4468,8 @@
     "languages": "English International, Portuguese,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed",
     "test_type": [
-      "C",
-      "P"
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
@@ -4482,8 +4482,8 @@
     "languages": "Portuguese (Brazil), Latin American Spanish, French, Chinese Simplified, Icelandic, Lithuanian, Danish, Dutch, English International, Finnish, German, Italian, Norwegian, Portuguese, Spanish, English (USA), Swedish,",
     "assessment_length": "Approximate Completion Time in minutes = Untimed",
     "test_type": [
-      "C",
-      "P"
+      "Competencies",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
@@ -4496,7 +4496,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
@@ -4509,7 +4509,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
@@ -4522,7 +4522,7 @@
     "languages": "Arabic, French (Canada), Portuguese (Brazil), Chinese Traditional, Chinese Simplified, Czech, Danish, Dutch, Finnish, French, German, Greek, Hungarian, Indonesian, English International, Italian, Japanese, Korean, Latin American Spanish, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Spanish, Swedish, Thai, Turkish, English (USA), Norwegian,",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
@@ -4535,7 +4535,7 @@
     "languages": "Latin American Spanish, Arabic, Chinese Simplified, German, French, Italian, Dutch, English (USA), English International,",
     "assessment_length": "Approximate Completion Time in minutes = 8",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
@@ -4545,7 +4545,7 @@
     "name": "Verify G+ - Ability Test Report",
     "description": "The SHL Verify G+ Ability Test Report provides the candidate's overall General Ability score alongside scores on Numerical, Deductive and Inductive Reasoning, using the comparison group selected by the user.",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
@@ -4556,7 +4556,7 @@
     "name": "Verify G+ - Candidate Report",
     "description": "The SHL Verify G+ Ability Candidate Report provides the candidate with feedback on their Numerical, Deductive and Inductive Reasoning results. It does not include the overall score, as it is intended for feedback and developmental purposes. The report focuses on how the candidate can improve their abilities in each area (deductive, inductive, and numerical). Please note: language availability for the G+ Candidate Report is currently more limited than for the manger-facing G+ Ability Report.",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
@@ -4570,7 +4570,7 @@
     "languages": "Romanian, English (USA), English International, French (Canada), Latin American Spanish, Arabic, Dutch, French, German, Swedish, Chinese Simplified, Chinese Traditional, Czech, Danish, Greek, Hungarian, Italian, Korean, Norwegian, Polish, Portuguese, Thai, Turkish, Finnish, Japanese, Spanish, Indonesian, Russian, Slovak, Serbian, Portuguese (Brazil), Vietnamese,",
     "assessment_length": "Approximate Completion Time in minutes = 36",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
@@ -4583,7 +4583,7 @@
     "languages": "German, French (Canada), English (USA), English International, Latin American Spanish, Dutch, French, Chinese Simplified, Portuguese (Brazil), Turkish, Japanese,",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
@@ -4596,7 +4596,7 @@
     "languages": "Portuguese (Brazil), Chinese Traditional, Chinese Simplified, Czech, Danish, Finnish, French, Hungarian, Indonesian, English International, Italian, Latin American Spanish, Norwegian, Portuguese, Russian, Thai, English (USA), French (Canada), Dutch, Polish, Slovak, Arabic, German, Greek, Japanese, Korean, Romanian, Serbian, Spanish, Swedish, Turkish,",
     "assessment_length": "Approximate Completion Time in minutes = 24",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
@@ -4606,7 +4606,7 @@
     "name": "Verify Interactive Ability Report",
     "description": "Verify Interactive Ability Report",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
@@ -4617,7 +4617,7 @@
     "name": "Verify Interactive G+ Candidate Report",
     "description": "Verify Interactive G+ Candidate Report",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
@@ -4629,7 +4629,7 @@
     "description": "Report for Verify Interactive G+",
     "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor,",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
@@ -4643,7 +4643,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 18",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
@@ -4656,7 +4656,7 @@
     "languages": "Arabic, Portuguese (Brazil), French (Canada), Chinese Simplified, Czech, Dutch, Finnish, French, German, Hungarian, Indonesian, English International, Italian, Japanese, Korean, Norwegian, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Turkish, English (USA), Latin American Spanish, Polish, Serbian, Chinese Traditional, Danish, Thai, Greek,",
     "assessment_length": "Approximate Completion Time in minutes = 20",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
@@ -4669,7 +4669,7 @@
     "languages": "Latin American Spanish, English (USA), English International, French, German, Italian, Dutch, Chinese Simplified,",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
@@ -4682,7 +4682,7 @@
     "languages": "English (USA), English International,",
     "assessment_length": "Approximate Completion Time in minutes = 15 minutes",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
@@ -4695,7 +4695,7 @@
     "languages": "Greek, Arabic, Chinese Simplified, German, French, Italian, Dutch, English International, English (USA), Latin American Spanish,",
     "assessment_length": "Approximate Completion Time in minutes = 10",
     "test_type": [
-      "A"
+      "Ability & Aptitude"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
@@ -4708,8 +4708,8 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 34",
     "test_type": [
-      "A",
-      "P"
+      "Ability & Aptitude",
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
@@ -4722,7 +4722,7 @@
     "languages": "English (USA), English International, Italian, German, Portuguese, Spanish, Latin American Spanish, French, French (Canada), Dutch, Japanese, Indonesian, Greek, Romanian, Chinese Simplified, Arabic,",
     "assessment_length": "Approximate Completion Time in minutes = N/A",
     "test_type": [
-      "P"
+      "Personality & Behavior"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
@@ -4735,7 +4735,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 7",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
@@ -4748,7 +4748,7 @@
     "languages": "English International,",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
@@ -4761,7 +4761,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
@@ -4774,7 +4774,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
@@ -4787,7 +4787,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 5",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
@@ -4800,7 +4800,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 12",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
@@ -4813,7 +4813,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
@@ -4826,7 +4826,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
@@ -4839,7 +4839,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "S"
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
@@ -4852,8 +4852,8 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 15",
     "test_type": [
-      "B",
-      "S"
+      "Biodata & Situational Judgement",
+      "Simulations"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
@@ -4866,7 +4866,7 @@
     "languages": "English (USA), English International,",
     "assessment_length": "Approximate Completion Time in minutes = 30",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
@@ -4879,7 +4879,7 @@
     "languages": "Latin American Spanish,",
     "assessment_length": "Approximate Completion Time in minutes = 22",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
@@ -4892,7 +4892,7 @@
     "languages": "English (USA),",
     "assessment_length": "Approximate Completion Time in minutes = 9",
     "test_type": [
-      "K"
+      "Knowledge & Skills"
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",

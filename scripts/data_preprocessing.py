@@ -4,6 +4,17 @@ import json
 INPUT_FILE = "data/catalog.json"
 OUTPUT_FILE = "data/catalog_cleaned.json"
 
+test_type_map = {
+    "A": "Ability & Aptitude",
+    "B": "Biodata & Situational Judgement",
+    "C": "Competencies",
+    "D": "Development & 360",
+    "E": "Assessment Exercises",
+    "K": "Knowledge & Skills",
+    "P": "Personality & Behavior",
+    "S": "Simulations"
+}
+
 def extract_minutes(text):
     if not isinstance(text, str):
         return None
@@ -19,6 +30,7 @@ def main():
         with open(INPUT_FILE,"r", encoding="utf-8") as f:
             data = json.load(f)
         count = 0
+        count_types = 0
         for item in data:
             if "assessment_length" in item:
                 duration_text = item["assessment_length"]
@@ -31,6 +43,11 @@ def main():
             else:
                 item["assessment_duration"] = None
                 item["assessment_length"] = None
+            if "test_type" in item and isinstance(item["test_type"], list):
+                original_types = item["test_type"]
+                item["test_type"] = [test_type_map.get(code,code) for code in original_types]
+                if item["test_type"] != original_types:
+                        count_types += 1
 
         with open(OUTPUT_FILE,"w", encoding="utf-8") as f:
             json.dump(data,f, indent=2)
