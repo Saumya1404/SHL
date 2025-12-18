@@ -8,8 +8,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "360\u00b0 Multi-Rater Feedback System (MFS)",
@@ -23,7 +22,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
-    "assessment_duration": "Untimed"
+    "assessment_duration": 0
   },
   {
     "name": "Accounts Payable (New)",
@@ -36,7 +35,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Accounts Payable Simulation (New)",
@@ -49,7 +48,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Accounts Receivable (New)",
@@ -62,7 +61,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Accounts Receivable Simulation (New)",
@@ -75,7 +74,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "ADO.NET (New)",
@@ -88,7 +87,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Adobe Experience Manager (New)",
@@ -101,7 +100,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
-    "assessment_duration": "17"
+    "assessment_duration": 17
   },
   {
     "name": "Adobe Photoshop CC",
@@ -114,7 +113,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "Aeronautical Engineering (New)",
@@ -127,7 +126,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Aerospace Engineering (New)",
@@ -140,7 +139,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Agile Software Development",
@@ -153,7 +152,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
-    "assessment_duration": "7 minutes"
+    "assessment_duration": 7
   },
   {
     "name": "Agile Testing (New)",
@@ -166,7 +165,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "AI Skills",
@@ -179,7 +178,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
-    "assessment_duration": "16"
+    "assessment_duration": 16
   },
   {
     "name": "Amazon Web Services (AWS) Development (New)",
@@ -192,7 +191,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Android Development (New)",
@@ -205,7 +204,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Angular 6 (New)",
@@ -218,7 +217,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "AngularJS (New)",
@@ -231,7 +230,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Apache Hadoop Extensions (New)",
@@ -244,7 +243,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Apache Hadoop (New)",
@@ -257,7 +256,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Apache HBase (New)",
@@ -270,7 +269,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Apache Hive (New)",
@@ -283,7 +282,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Apache Kafka (New)",
@@ -296,7 +295,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Apache Pig (New)",
@@ -309,7 +308,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Apache Spark (New)",
@@ -322,7 +321,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "ASP.NET 4.5",
@@ -335,7 +334,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "ASP .NET with C# (New)",
@@ -348,7 +347,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Assessment and Development Center Exercises",
@@ -361,7 +360,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
-    "assessment_duration": "Variable"
+    "assessment_duration": 0
   },
   {
     "name": "Automata Data Science (New)",
@@ -374,7 +373,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
-    "assessment_duration": "max 60"
+    "assessment_duration": 60
   },
   {
     "name": "Automata Data Science Pro (New)",
@@ -387,7 +386,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
-    "assessment_duration": "max 60"
+    "assessment_duration": 60
   },
   {
     "name": "Automata - Fix (New)",
@@ -400,7 +399,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
-    "assessment_duration": "max 20"
+    "assessment_duration": 20
   },
   {
     "name": "Automata Front End",
@@ -413,7 +412,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
-    "assessment_duration": "30 minutes"
+    "assessment_duration": 30
   },
   {
     "name": "Automata (New)",
@@ -426,7 +425,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
-    "assessment_duration": "max 45"
+    "assessment_duration": 45
   },
   {
     "name": "Automata Pro (New)",
@@ -439,7 +438,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
-    "assessment_duration": "max 60"
+    "assessment_duration": 60
   },
   {
     "name": "Automata Selenium",
@@ -452,7 +451,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
-    "assessment_duration": "60"
+    "assessment_duration": 60
   },
   {
     "name": "Automata - SQL (New)",
@@ -465,7 +464,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
-    "assessment_duration": "max 30"
+    "assessment_duration": 30
   },
   {
     "name": "Automation Anywhere RPA Development (New)",
@@ -478,7 +477,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Automotive Engineering (New)",
@@ -491,7 +490,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Basic Biology (New)",
@@ -504,7 +503,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Basic Computer Literacy (Windows 10) (New)",
@@ -518,7 +517,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "Basic Statistics (New)",
@@ -531,7 +530,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Biochemistry (New)",
@@ -544,7 +543,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Biotech Lab Techniques (New)",
@@ -557,7 +556,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "BizTalk (New)",
@@ -570,7 +569,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
-    "assessment_duration": "16"
+    "assessment_duration": 16
   },
   {
     "name": "Business Communication (adaptive)",
@@ -583,7 +582,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
-    "assessment_duration": "24"
+    "assessment_duration": 24
   },
   {
     "name": "Business Communications",
@@ -595,7 +594,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
-    "assessment_duration": "35"
+    "assessment_duration": 35
   },
   {
     "name": "C# Programming (New)",
@@ -608,7 +607,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "C++ Programming (New)",
@@ -621,7 +620,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "C Programming (New)",
@@ -634,7 +633,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Cardiology and Diabetes Management (New)",
@@ -647,7 +646,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
-    "assessment_duration": "4"
+    "assessment_duration": 4
   },
   {
     "name": "Ceramic Engineering (New)",
@@ -660,7 +659,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Chemical Engineering (New)",
@@ -673,7 +672,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Cisco AppDynamics (New)",
@@ -686,7 +685,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Civil Engineering (New)",
@@ -699,7 +698,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Cloud Computing (New)",
@@ -712,7 +711,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "COBOL Programming (New)",
@@ -725,7 +724,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Computer Science (New)",
@@ -738,7 +737,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Contact Center Call Simulation (New)",
@@ -751,7 +750,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "Conversational Multichat Simulation",
@@ -763,7 +762,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "Core Java (Advanced Level) (New)",
@@ -776,7 +775,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Core Java (Entry Level) (New)",
@@ -789,7 +788,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Count Out The Money",
@@ -803,7 +802,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "CSS3 (New)",
@@ -816,7 +815,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Culinary Skills (New)",
@@ -829,7 +828,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Customer Service Phone Simulation",
@@ -843,7 +842,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "Customer Service Phone Solution",
@@ -858,7 +857,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "Cyber Risk (New)",
@@ -871,7 +870,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Data Entry Alphanumeric Split Screen - US",
@@ -884,7 +883,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Data Entry (New)",
@@ -897,7 +896,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
-    "assessment_duration": "4"
+    "assessment_duration": 4
   },
   {
     "name": "Data Entry Numeric Split Screen - US",
@@ -910,7 +909,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Data Entry Ten Key Split Screen",
@@ -923,7 +922,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
-    "assessment_duration": "3"
+    "assessment_duration": 3
   },
   {
     "name": "Data Science (New)",
@@ -936,7 +935,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
-    "assessment_duration": "14"
+    "assessment_duration": 14
   },
   {
     "name": "Data Warehousing Concepts",
@@ -949,7 +948,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
-    "assessment_duration": "25"
+    "assessment_duration": 25
   },
   {
     "name": "Dependability and Safety Instrument (DSI)",
@@ -962,7 +961,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Dermatology (New)",
@@ -975,7 +974,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
-    "assessment_duration": "3"
+    "assessment_duration": 3
   },
   {
     "name": "Desktop Support (New)",
@@ -988,7 +987,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Digital Advertising (New)",
@@ -1001,7 +1000,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Digital Readiness Development Report - Manager",
@@ -1012,8 +1011,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Digital Readiness Development Report - IC",
@@ -1024,8 +1022,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Docker (New)",
@@ -1038,7 +1035,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Dojo (New)",
@@ -1051,7 +1048,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "Drupal (New)",
@@ -1064,7 +1061,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
-    "assessment_duration": "17"
+    "assessment_duration": 17
   },
   {
     "name": "DSI v1.1 Interpretation Report",
@@ -1075,8 +1072,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Econometrics (New)",
@@ -1089,7 +1085,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "Economics (New)",
@@ -1102,7 +1098,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Electrical and Electronics Engineering (New)",
@@ -1115,7 +1111,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
-    "assessment_duration": "14"
+    "assessment_duration": 14
   },
   {
     "name": "Electrical Engineering (New)",
@@ -1128,7 +1124,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Electronics and Embedded Systems Engineering (New)",
@@ -1141,7 +1137,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
-    "assessment_duration": "18"
+    "assessment_duration": 18
   },
   {
     "name": "Electronics and Semiconductor Engineering (New)",
@@ -1154,7 +1150,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Electronics & Telecommunications Engineering (New)",
@@ -1167,7 +1163,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "English Comprehension (New)",
@@ -1180,7 +1176,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
-    "assessment_duration": "0"
+    "assessment_duration": 0
   },
   {
     "name": "Enterprise Java Beans (New)",
@@ -1193,7 +1189,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
-    "assessment_duration": "4"
+    "assessment_duration": 4
   },
   {
     "name": "Enterprise Leadership Report 2.0",
@@ -1204,8 +1200,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Enterprise Leadership Report 1.0",
@@ -1216,8 +1211,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Entry Level Cashier Solution",
@@ -1231,7 +1225,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
-    "assessment_duration": "19"
+    "assessment_duration": 19
   },
   {
     "name": "Entry Level Customer Serv-Retail & Contact Center",
@@ -1245,7 +1239,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
-    "assessment_duration": "19"
+    "assessment_duration": 19
   },
   {
     "name": "Entry Level Customer Service (General) Solution",
@@ -1259,7 +1253,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
-    "assessment_duration": "14"
+    "assessment_duration": 14
   },
   {
     "name": "Entry Level Hotel Front Desk Solution",
@@ -1273,7 +1267,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "Entry Level Sales Solution",
@@ -1287,7 +1281,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "Entry Level Technical Support Solution",
@@ -1301,7 +1295,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
-    "assessment_duration": "18"
+    "assessment_duration": 18
   },
   {
     "name": "Manufacturing & Industrial - Essential Focus 8.0",
@@ -1314,7 +1308,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
-    "assessment_duration": "16"
+    "assessment_duration": 16
   },
   {
     "name": "ETL Testing (New)",
@@ -1327,7 +1321,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Executive Scenarios Narrative Report",
@@ -1338,8 +1332,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Executive Scenarios Profile Report",
@@ -1350,8 +1343,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Executive Scenarios",
@@ -1364,7 +1356,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
-    "assessment_duration": "Untimed"
+    "assessment_duration": 0
   },
   {
     "name": "ExpressJS (New)",
@@ -1377,7 +1369,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Filing - Names (R1)",
@@ -1390,7 +1382,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
-    "assessment_duration": "3"
+    "assessment_duration": 3
   },
   {
     "name": "Filing - Numbers",
@@ -1403,7 +1395,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
-    "assessment_duration": "3"
+    "assessment_duration": 3
   },
   {
     "name": "Financial Accounting (New)",
@@ -1416,7 +1408,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Financial and Banking Services (New)",
@@ -1429,7 +1421,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Fire Engineering (New)",
@@ -1442,7 +1434,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Following Instructions v1 - UK (R1)",
@@ -1455,7 +1447,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Following Instructions v1 - US (R2)",
@@ -1468,7 +1460,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Food and Beverage Services (New)",
@@ -1481,7 +1473,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Food Science (New)",
@@ -1494,7 +1486,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Front Office Management (New)",
@@ -1507,7 +1499,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Fundamentals of Chemistry (New)",
@@ -1520,7 +1512,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Fundamentals of Physics (New)",
@@ -1533,7 +1525,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "General Diseases (New)",
@@ -1546,7 +1538,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Geoinformatics Engineering (New)",
@@ -1559,7 +1551,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Geoscience Engineering (New)",
@@ -1572,7 +1564,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "GIT (New)",
@@ -1585,7 +1577,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/git-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Global Skills Assessment",
@@ -1598,7 +1590,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
-    "assessment_duration": "16"
+    "assessment_duration": 16
   },
   {
     "name": "Global Skills Development Report",
@@ -1614,8 +1606,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Graduate Scenarios Narrative Report",
@@ -1626,8 +1617,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Graduate Scenarios Profile Report",
@@ -1638,8 +1628,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Graduate Scenarios",
@@ -1652,7 +1641,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
-    "assessment_duration": "Untimed"
+    "assessment_duration": 0
   },
   {
     "name": "Hibernate (New)",
@@ -1665,7 +1654,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "HIPAA (Security)",
@@ -1678,7 +1667,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
-    "assessment_duration": "15 to 35"
+    "assessment_duration": 35
   },
   {
     "name": "HiPo Assessment Report 1.0",
@@ -1689,8 +1678,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "HiPo Assessment Report 2.0",
@@ -1701,8 +1689,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "HiPo Unlocking Potential Report 2.0",
@@ -1712,8 +1699,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Housekeeping (New)",
@@ -1726,7 +1712,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "HTML5 (New)",
@@ -1739,7 +1725,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "HTML/CSS (New)",
@@ -1752,7 +1738,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Human Resources (New)",
@@ -1765,7 +1751,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "IBM DataStage (New)",
@@ -1778,7 +1764,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "IBM Sterling Order Management System (New)",
@@ -1791,7 +1777,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Industrial Engineering (New)",
@@ -1804,7 +1790,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Informatica (Architecture) (New)",
@@ -1817,7 +1803,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Informatica (Developer) (New)",
@@ -1830,7 +1816,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "Instrumentation Engineering (New)",
@@ -1843,7 +1829,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Interpersonal Communications",
@@ -1856,7 +1842,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
-    "assessment_duration": "15 to 35"
+    "assessment_duration": 35
   },
   {
     "name": "Interviewing and Hiring Concepts (U.S.)",
@@ -1869,7 +1855,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
-    "assessment_duration": "15 to 35"
+    "assessment_duration": 35
   },
   {
     "name": "iOS Development (New)",
@@ -1882,7 +1868,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "ITIL (IT Infrastructure Library) (New)",
@@ -1895,7 +1881,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
@@ -1908,7 +1894,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "Java 8 (New)",
@@ -1921,7 +1907,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
-    "assessment_duration": "18"
+    "assessment_duration": 18
   },
   {
     "name": "Java Design Patterns (New)",
@@ -1934,7 +1920,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Java Frameworks (New)",
@@ -1947,7 +1933,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
-    "assessment_duration": "17"
+    "assessment_duration": 17
   },
   {
     "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
@@ -1960,7 +1946,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "Java Web Services (New)",
@@ -1973,7 +1959,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "JavaScript (New)",
@@ -1986,7 +1972,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Jenkins (New)",
@@ -1999,7 +1985,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Job Control Language (New)",
@@ -2012,7 +1998,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "jQuery (New)",
@@ -2025,7 +2011,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Kubernetes (New)",
@@ -2038,7 +2024,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Linux Administration (New)",
@@ -2051,7 +2037,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Linux Operating System",
@@ -2064,7 +2050,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "Linux Programming (General)",
@@ -2077,7 +2063,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
-    "assessment_duration": "25"
+    "assessment_duration": 25
   },
   {
     "name": "Load Runner (New)",
@@ -2090,7 +2076,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Management Scenarios",
@@ -2103,7 +2089,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
-    "assessment_duration": "Untimed"
+    "assessment_duration": 0
   },
   {
     "name": "Managerial Scenarios Candidate Report",
@@ -2114,8 +2100,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Managerial Scenarios Narrative Report",
@@ -2126,8 +2111,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Managerial Scenarios Profile Report",
@@ -2138,8 +2122,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Manual Testing (New)",
@@ -2152,7 +2135,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Marketing (New)",
@@ -2165,7 +2148,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Maven (New)",
@@ -2178,7 +2161,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
@@ -2192,7 +2175,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
-    "assessment_duration": "49"
+    "assessment_duration": 49
   },
   {
     "name": "Mechanical Engineering (New)",
@@ -2205,7 +2188,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
@@ -2219,7 +2202,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
-    "assessment_duration": "31"
+    "assessment_duration": 31
   },
   {
     "name": "Mechatronics Engineering (New)",
@@ -2232,7 +2215,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
-    "assessment_duration": "19"
+    "assessment_duration": 19
   },
   {
     "name": "Medical Terminology (New)",
@@ -2245,7 +2228,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
-    "assessment_duration": "3"
+    "assessment_duration": 3
   },
   {
     "name": "Metallurgical Engineering (New)",
@@ -2258,7 +2241,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "MFS 360 Enterprise Leadership Report",
@@ -2268,8 +2251,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "MFS 360 UCF Group Report",
@@ -2279,8 +2261,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "MFS 360 UCF Performance Potential Dev Tips Report",
@@ -2290,8 +2271,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "MFS 360 UCF Standard Report",
@@ -2301,8 +2281,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Micro Focus Unified Functional Testing (New)",
@@ -2315,7 +2294,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Microservices (New)",
@@ -2328,7 +2307,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Microsoft Dynamics Development (New)",
@@ -2341,7 +2320,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Microsoft Excel 365 - Essentials (New)",
@@ -2355,7 +2334,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "Microsoft Excel 365 (New)",
@@ -2369,7 +2348,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
-    "assessment_duration": "35"
+    "assessment_duration": 35
   },
   {
     "name": "Microsoft Outlook 2013 (adaptive)",
@@ -2382,7 +2361,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
-    "assessment_duration": "25"
+    "assessment_duration": 25
   },
   {
     "name": "Microsoft PowerPoint 365 - Essentials (New)",
@@ -2396,7 +2375,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
-    "assessment_duration": "25"
+    "assessment_duration": 25
   },
   {
     "name": "Microsoft SQL Server 2014 Programming",
@@ -2409,7 +2388,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
-    "assessment_duration": "35"
+    "assessment_duration": 35
   },
   {
     "name": "Microsoft Windows Server 2012 Administration",
@@ -2422,7 +2401,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
-    "assessment_duration": "35"
+    "assessment_duration": 35
   },
   {
     "name": "Microsoft Word 365 - Essentials (New)",
@@ -2436,7 +2415,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
-    "assessment_duration": "25"
+    "assessment_duration": 25
   },
   {
     "name": "Microsoft Word 365 (New)",
@@ -2450,7 +2429,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
-    "assessment_duration": "35"
+    "assessment_duration": 35
   },
   {
     "name": "Mineral Engineering (New)",
@@ -2463,7 +2442,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Mining Engineering (New)",
@@ -2476,7 +2455,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
-    "assessment_duration": "16"
+    "assessment_duration": 16
   },
   {
     "name": "Mobility (New)",
@@ -2489,7 +2468,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Molecular Biology (New)",
@@ -2502,7 +2481,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "MongoDB (New)",
@@ -2515,7 +2494,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Motivation Questionnaire MQM5",
@@ -2528,7 +2507,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
-    "assessment_duration": "Untimed, approx. 25"
+    "assessment_duration": 25
   },
   {
     "name": "MQ Candidate Motivation Report",
@@ -2540,8 +2519,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "MQ Employee Motivation Report",
@@ -2553,8 +2531,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "MQ Motivation Report Pack",
@@ -2566,8 +2543,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "MQ Profile",
@@ -2579,8 +2555,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "MS Access (New)",
@@ -2593,7 +2568,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "MS Excel (New)",
@@ -2606,7 +2581,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "MS Office Basic Computer Literacy (New)",
@@ -2619,7 +2594,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "MS Office Basic Computer Literacy (Sim) (New)",
@@ -2632,7 +2607,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "MS PowerPoint (New)",
@@ -2645,7 +2620,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
-    "assessment_duration": "4"
+    "assessment_duration": 4
   },
   {
     "name": "MS Word (New)",
@@ -2658,7 +2633,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
-    "assessment_duration": "4"
+    "assessment_duration": 4
   },
   {
     "name": "MuleSoft Development (New)",
@@ -2671,7 +2646,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
-    "assessment_duration": "17"
+    "assessment_duration": 17
   },
   {
     "name": "Multitasking Ability",
@@ -2686,7 +2661,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": ".NET Framework 4.5",
@@ -2699,7 +2674,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": ".NET MVC (New)",
@@ -2712,7 +2687,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
-    "assessment_duration": "17"
+    "assessment_duration": 17
   },
   {
     "name": ".NET MVVM (New)",
@@ -2725,7 +2700,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": ".NET WCF (New)",
@@ -2738,7 +2713,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": ".NET WPF (New)",
@@ -2751,7 +2726,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": ".NET XAML (New)",
@@ -2764,7 +2739,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Networking and Implementation (New)",
@@ -2777,7 +2752,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Node.js (New)",
@@ -2790,7 +2765,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Nursing (New)",
@@ -2803,7 +2778,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "Occupational Personality Questionnaire OPQ32r",
@@ -2816,7 +2791,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
-    "assessment_duration": "Untimed, approx. 25"
+    "assessment_duration": 25
   },
   {
     "name": "Operations Management (New)",
@@ -2829,7 +2804,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "OPQ Candidate Plus Report",
@@ -2841,8 +2816,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Candidate Report 2.0",
@@ -2852,8 +2826,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Emotional Intelligence Report",
@@ -2865,8 +2838,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Leadership Report",
@@ -2878,8 +2850,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Manager Plus Report 2.0",
@@ -2890,8 +2861,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Manager Plus Report",
@@ -2903,8 +2873,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Maximising your Learning Report",
@@ -2916,8 +2885,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ MQ Sales Report",
@@ -2929,8 +2897,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Premium Plus Report 2.0",
@@ -2941,8 +2908,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Premium Plus Report",
@@ -2954,8 +2920,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Profile Report",
@@ -2967,8 +2932,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Team Impact Group Development Report",
@@ -2980,8 +2944,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Team Impact Individual Development Report",
@@ -2993,8 +2956,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Team Impact Selection Report",
@@ -3006,8 +2968,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Team Types & Leadership Styles Profile",
@@ -3019,8 +2980,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Team Types and Leadership Styles Report",
@@ -3032,8 +2992,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ UCF Development Action Planner Report 2.0",
@@ -3044,8 +3003,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ UCF Development Action Planner Report 1.0",
@@ -3057,8 +3015,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Universal Competency Report 2.0",
@@ -3069,8 +3026,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ Universal Competency Report 1.0",
@@ -3082,8 +3038,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ User and Managers Report",
@@ -3095,8 +3050,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "OPQ User Report",
@@ -3109,8 +3063,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Oracle DBA (Advanced Level) (New)",
@@ -3123,7 +3076,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Oracle DBA (Entry Level) (New)",
@@ -3136,7 +3089,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Oracle PL/SQL (New)",
@@ -3149,7 +3102,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "Oracle WebLogic Server (New)",
@@ -3162,7 +3115,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Organic Chemistry (New)",
@@ -3175,7 +3128,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Paint Technology (New)",
@@ -3188,7 +3141,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Pediatrics (New)",
@@ -3201,7 +3154,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Pega Development (New)",
@@ -3214,7 +3167,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
-    "assessment_duration": "17"
+    "assessment_duration": 17
   },
   {
     "name": "Perl (New)",
@@ -3227,7 +3180,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Petrochemical Engineering (New)",
@@ -3240,7 +3193,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Petroleum Engineering (New)",
@@ -3253,7 +3206,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Pharmaceutical Analysis (New)",
@@ -3266,7 +3219,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Pharmaceutical Chemistry (New)",
@@ -3279,7 +3232,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
-    "assessment_duration": "17"
+    "assessment_duration": 17
   },
   {
     "name": "Pharmaceutical Science (New)",
@@ -3292,7 +3245,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Pharmaceutics (New)",
@@ -3305,7 +3258,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Pharmacology (New)",
@@ -3318,7 +3271,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "PHP (New)",
@@ -3331,7 +3284,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/php-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "PJM Development Report",
@@ -3345,8 +3298,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "PJM Selection Report",
@@ -3360,8 +3312,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Polymer Engineering (New)",
@@ -3374,7 +3325,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Power Electronics and Drives (New)",
@@ -3387,7 +3338,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "Power System Engineering (New)",
@@ -3400,7 +3351,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Prism (New)",
@@ -3413,7 +3364,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
-    "assessment_duration": "4"
+    "assessment_duration": 4
   },
   {
     "name": "Production and Industrial Engineering (New)",
@@ -3426,7 +3377,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "Production Engineering (New)",
@@ -3439,7 +3390,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Programming Concepts",
@@ -3452,7 +3403,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
-    "assessment_duration": "25"
+    "assessment_duration": 25
   },
   {
     "name": "Project Management (2013)",
@@ -3465,7 +3416,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "Proofreading v1",
@@ -3478,7 +3429,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Python (New)",
@@ -3491,7 +3442,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/python-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "R Programming (New)",
@@ -3504,7 +3455,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
-    "assessment_duration": "13"
+    "assessment_duration": 13
   },
   {
     "name": "ReactJS (New)",
@@ -3517,7 +3468,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Reading Comprehension - English v1",
@@ -3530,7 +3481,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
-    "assessment_duration": "35"
+    "assessment_duration": 35
   },
   {
     "name": "Reading Comprehension - Spanish v1",
@@ -3543,7 +3494,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
-    "assessment_duration": "26"
+    "assessment_duration": 26
   },
   {
     "name": "Reading Comprehension v2",
@@ -3556,7 +3507,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
-    "assessment_duration": "35"
+    "assessment_duration": 35
   },
   {
     "name": "RemoteWorkQ Manager Report",
@@ -3567,8 +3518,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "RemoteWorkQ Participant Report",
@@ -3579,8 +3529,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "RemoteWorkQ",
@@ -3593,7 +3542,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "RESTful Web Services (New)",
@@ -3606,7 +3555,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Retail Sales and Service Simulation",
@@ -3622,7 +3571,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "Reviewing Forms - US (R1)",
@@ -3635,7 +3584,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Ruby (New)",
@@ -3648,7 +3597,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "Ruby on Rails (New)",
@@ -3661,7 +3610,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "Manufac. & Indust. - Safety & Dependability 8.0",
@@ -3674,7 +3623,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
-    "assessment_duration": "16"
+    "assessment_duration": 16
   },
   {
     "name": "Sales & Service Phone Simulation",
@@ -3688,7 +3637,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "Sales & Service Phone Solution",
@@ -3703,7 +3652,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
-    "assessment_duration": "35"
+    "assessment_duration": 35
   },
   {
     "name": "Sales Interview Guide",
@@ -3717,7 +3666,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
-    "assessment_duration": "Untimed"
+    "assessment_duration": 0
   },
   {
     "name": "Sales Profiler Cards",
@@ -3730,7 +3679,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
-    "assessment_duration": "Untimed"
+    "assessment_duration": 0
   },
   {
     "name": "Sales Transformation Report 2.0 - Sales Manager",
@@ -3741,8 +3690,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Sales Transformation 1.0 - Individual Contributor",
@@ -3753,8 +3701,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Sales Transformation Report 1.0 - Sales Manager",
@@ -3765,8 +3712,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Salesforce Development (New)",
@@ -3779,7 +3725,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "Sales Transformation 2.0 - Individual Contributor",
@@ -3790,8 +3736,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "SAP ABAP (Advanced Level) (New)",
@@ -3804,7 +3749,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "SAP ABAP (Intermediate Level) (New)",
@@ -3817,7 +3762,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "SAP Basis (New)",
@@ -3830,7 +3775,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "SAP Business Objects WebI (New)",
@@ -3843,7 +3788,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "SAP BW (Business Warehouse) (New)",
@@ -3856,7 +3801,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "SAP HCM (Human Capital Management) (New)",
@@ -3869,7 +3814,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
-    "assessment_duration": "TBC"
+    "assessment_duration": 0
   },
   {
     "name": "SAP Hybris (New)",
@@ -3882,7 +3827,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "SAP Materials Management (New)",
@@ -3895,7 +3840,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "SAP SD (Sales and Distribution) (New)",
@@ -3908,7 +3853,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Search Engine Optimization (New)",
@@ -3921,7 +3866,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Selenium (New)",
@@ -3934,7 +3879,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Shell Scripting (New)",
@@ -3947,7 +3892,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "SHL Verify Interactive \u2013 Deductive Reasoning",
@@ -3961,7 +3906,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "SHL Verify Interactive G+",
@@ -3974,7 +3919,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
-    "assessment_duration": "36"
+    "assessment_duration": 36
   },
   {
     "name": "SHL Verify Interactive - Inductive Reasoning",
@@ -3988,7 +3933,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "SHL Verify Interactive Numerical Calculation",
@@ -4001,7 +3946,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "SHL Verify Interactive \u2013 Numerical Reasoning",
@@ -4015,7 +3960,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "Siebel Development (New)",
@@ -4028,7 +3973,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Smart Interview Live Coding",
@@ -4041,7 +3986,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
-    "assessment_duration": "Variable"
+    "assessment_duration": 0
   },
   {
     "name": "Smart Interview Live",
@@ -4054,7 +3999,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
-    "assessment_duration": "Variable"
+    "assessment_duration": 0
   },
   {
     "name": "Smart Interview On Demand",
@@ -4067,7 +4012,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
-    "assessment_duration": "Variable"
+    "assessment_duration": 0
   },
   {
     "name": "Social Media (New)",
@@ -4080,7 +4025,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Software Business Analysis",
@@ -4093,7 +4038,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "SonarQube (New)",
@@ -4106,7 +4051,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
-    "assessment_duration": "TBC"
+    "assessment_duration": 0
   },
   {
     "name": "Spelling (U.S.) (New)",
@@ -4119,7 +4064,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
-    "assessment_duration": "0"
+    "assessment_duration": 0
   },
   {
     "name": "Split Screen Typing Test - Form 1",
@@ -4133,7 +4078,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
-    "assessment_duration": "6"
+    "assessment_duration": 6
   },
   {
     "name": "Spring (New)",
@@ -4146,7 +4091,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "SQL (New)",
@@ -4159,7 +4104,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "SQL Server Analysis Services (SSAS) (New)",
@@ -4172,7 +4117,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "SQL Server Integration Services (SSIS) (New)",
@@ -4185,7 +4130,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "SQL Server (New)",
@@ -4198,7 +4143,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "SQL Server Reporting Services (SSRS) (New)",
@@ -4211,7 +4156,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Statistical Analysis System (New)",
@@ -4224,7 +4169,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
-    "assessment_duration": "11"
+    "assessment_duration": 11
   },
   {
     "name": "Struts (New)",
@@ -4237,7 +4182,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "SVAR - Spoken English (AUS)",
@@ -4250,7 +4195,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
-    "assessment_duration": "-"
+    "assessment_duration": 0
   },
   {
     "name": "SVAR - Spoken English (Indian Accent)  (New)",
@@ -4263,7 +4208,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
-    "assessment_duration": "-"
+    "assessment_duration": 0
   },
   {
     "name": "SVAR - Spoken English (U.K.)",
@@ -4276,7 +4221,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
-    "assessment_duration": "-"
+    "assessment_duration": 0
   },
   {
     "name": "SVAR - Spoken English (US)  (New)",
@@ -4289,7 +4234,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
-    "assessment_duration": "-"
+    "assessment_duration": 0
   },
   {
     "name": "SVAR - Spoken French (Canadian) (New)",
@@ -4302,7 +4247,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
-    "assessment_duration": "-"
+    "assessment_duration": 0
   },
   {
     "name": "SVAR - Spoken French (European) (New)",
@@ -4315,7 +4260,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
-    "assessment_duration": "-"
+    "assessment_duration": 0
   },
   {
     "name": "SVAR - Spoken Spanish (Castilian) (New)",
@@ -4328,7 +4273,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
-    "assessment_duration": "-"
+    "assessment_duration": 0
   },
   {
     "name": "SVAR - Spoken Spanish (North American) (New)",
@@ -4341,7 +4286,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
-    "assessment_duration": "-"
+    "assessment_duration": 0
   },
   {
     "name": "Swing (New)",
@@ -4354,7 +4299,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
-    "assessment_duration": "4"
+    "assessment_duration": 4
   },
   {
     "name": "Tableau (New)",
@@ -4367,7 +4312,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Telecommunications Engineering (New)",
@@ -4380,7 +4325,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Teradata Development (New)",
@@ -4393,7 +4338,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "Time Management (U.S.)",
@@ -4406,7 +4351,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
-    "assessment_duration": "15 to 35"
+    "assessment_duration": 35
   },
   {
     "name": "Training Development",
@@ -4419,7 +4364,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/training-development/",
-    "assessment_duration": "15 to 35"
+    "assessment_duration": 35
   },
   {
     "name": "Typing (New)",
@@ -4432,7 +4377,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
-    "assessment_duration": "2"
+    "assessment_duration": 2
   },
   {
     "name": "UiPath RPA Development (New)",
@@ -4445,7 +4390,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Universal Competency Framework Interview Guide",
@@ -4458,8 +4403,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Universal Competency Framework Job profiling guide",
@@ -4473,7 +4417,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
-    "assessment_duration": "Untimed"
+    "assessment_duration": 0
   },
   {
     "name": "Universal Competency Framework Profiler Cards (44)",
@@ -4487,7 +4431,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
-    "assessment_duration": "Untimed"
+    "assessment_duration": 0
   },
   {
     "name": "UNIX (New)",
@@ -4500,7 +4444,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "VB.NET (New)",
@@ -4513,7 +4457,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Verify - Deductive Reasoning",
@@ -4526,7 +4470,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "Verify - Following Instructions",
@@ -4539,7 +4483,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
-    "assessment_duration": "8"
+    "assessment_duration": 8
   },
   {
     "name": "Verify G+ - Ability Test Report",
@@ -4549,8 +4493,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Verify G+ - Candidate Report",
@@ -4560,8 +4503,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Verify - G+",
@@ -4574,7 +4516,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
-    "assessment_duration": "36"
+    "assessment_duration": 36
   },
   {
     "name": "Verify - General Ability Screen",
@@ -4587,7 +4529,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Verify - Inductive Reasoning (2014)",
@@ -4600,7 +4542,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
-    "assessment_duration": "24"
+    "assessment_duration": 24
   },
   {
     "name": "Verify Interactive Ability Report",
@@ -4610,8 +4552,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Verify Interactive G+ Candidate Report",
@@ -4621,8 +4562,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Verify Interactive G+ Report",
@@ -4633,8 +4573,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
-    "assessment_duration": null,
-    "assessment_length": null
+    "assessment_duration": 0
   },
   {
     "name": "Verify Interactive Process Monitoring",
@@ -4647,7 +4586,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
-    "assessment_duration": "18"
+    "assessment_duration": 18
   },
   {
     "name": "Verify - Numerical Ability",
@@ -4660,7 +4599,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
-    "assessment_duration": "20"
+    "assessment_duration": 20
   },
   {
     "name": "Verify - Technical Checking - Next Generation",
@@ -4673,7 +4612,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Verify - Verbal Ability - Next Generation",
@@ -4686,7 +4625,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
-    "assessment_duration": "15 minutes"
+    "assessment_duration": 15
   },
   {
     "name": "Verify - Working with Information",
@@ -4699,7 +4638,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
-    "assessment_duration": "10"
+    "assessment_duration": 10
   },
   {
     "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
@@ -4713,7 +4652,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
-    "assessment_duration": "34"
+    "assessment_duration": 34
   },
   {
     "name": "Virtual Assessment and Development Centers",
@@ -4726,7 +4665,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
-    "assessment_duration": "N/A"
+    "assessment_duration": 0
   },
   {
     "name": "Visual Basic for Applications (New)",
@@ -4739,7 +4678,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
-    "assessment_duration": "7"
+    "assessment_duration": 7
   },
   {
     "name": "Visual Comparison - UK",
@@ -4752,7 +4691,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Visual Comparison - US",
@@ -4765,7 +4704,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "VLSI and Embedded Systems (New)",
@@ -4778,7 +4717,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "What Is The Value - US",
@@ -4791,7 +4730,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
-    "assessment_duration": "5"
+    "assessment_duration": 5
   },
   {
     "name": "Workplace Administration Skills (New)",
@@ -4804,7 +4743,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
-    "assessment_duration": "12"
+    "assessment_duration": 12
   },
   {
     "name": "Workplace Health and Safety (New)",
@@ -4817,7 +4756,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   },
   {
     "name": "WriteX - Email Writing (Customer Service) (New)",
@@ -4830,7 +4769,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "WriteX - Email Writing (Managerial) (New)",
@@ -4843,7 +4782,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "WriteX - Email Writing (Sales) (New)",
@@ -4857,7 +4796,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
-    "assessment_duration": "15"
+    "assessment_duration": 15
   },
   {
     "name": "Written English v1",
@@ -4870,7 +4809,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
-    "assessment_duration": "30"
+    "assessment_duration": 30
   },
   {
     "name": "Written Spanish",
@@ -4883,7 +4822,7 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
-    "assessment_duration": "22"
+    "assessment_duration": 22
   },
   {
     "name": "Zabbix (New)",
@@ -4896,6 +4835,6 @@
     ],
     "remote_testing": "Yes",
     "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
-    "assessment_duration": "9"
+    "assessment_duration": 9
   }
 ]

@@ -18,12 +18,11 @@ test_type_map = {
 def extract_minutes(text):
     if not isinstance(text, str):
         return None
-    if "=" in text:
-         return text.split('=',1)[1].strip()
-    return text.split()
-
+    numbers = re.findall(r'\d+', text)
+    if numbers:
+        return int(numbers[-1])
+    return 0
     
-
 
 def main():
     try:
@@ -34,15 +33,12 @@ def main():
         for item in data:
             if "assessment_length" in item:
                 duration_text = item["assessment_length"]
-                minutes = extract_minutes(duration_text)
-                if minutes is not None:
-                    item["assessment_duration"] = minutes
+                item["assessment_duration"] = extract_minutes(duration_text)
+
+                if item["assessment_duration"] > 0:
                     count += 1
-                else:
-                    item["assessment_duration"] = None
             else:
-                item["assessment_duration"] = None
-                item["assessment_length"] = None
+                item["assessment_duration"] = 0
             if "test_type" in item and isinstance(item["test_type"], list):
                 original_types = item["test_type"]
                 item["test_type"] = [test_type_map.get(code,code) for code in original_types]
