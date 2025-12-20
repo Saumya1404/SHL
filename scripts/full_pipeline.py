@@ -1,6 +1,7 @@
 from retrieval.qdrant_search import hybrid_search
 from reranking.cohere_reranking import rerank
-
+from app.services.intent_service import parse_intent
+from app.services.selection_service import select_assessments
 queries = [
     "Java developer",
     "Leadership and communication skills",
@@ -9,21 +10,41 @@ queries = [
     "I am hiring for Java developers who can also collaborate effectively with my business teams. Looking for an assessment(s) that can be completed in 40 minutes."
 ]
 
-for query in queries:
+def run_pipeline(query:str,top_k:int=40,final_k:int=10):
     print("=" * 80)
-    print(f"QUERY: {query}\n")
+    print("QUERY:")
+    print(query)
+    print()
+    intent = parse_intent(query)
+    print("PARSED INTENT:")
+    print(intent)
+    print()
 
-    retrieved = hybrid_search(query, top_k=40)
-
-    print("Top 5 retrieved (before rerank):")
-    for r in retrieved[:5]:
-        print(f"- {r['name']} | {r['test_type']} | {r['duration']} min")
-
-    reranked = rerank(query, retrieved, top_n=10)
-
-    print("\nTop 10 after rerank:")
-    for r in reranked:
+    candidates = hybrid_search(query, top_k=top_k)
+    candidates = rerank(query, candidates)
+    for c in candidates[:5]:
         print(
-            f"- {r['name']} | {r['test_type']} | "
-            f"{r['duration']} min | score={r['rerank_score']:.3f}"
+            f"- {c['name']} | {c['test_type']} | "
+            f"{c['duration']} min | score={c.get('rerank_score', 0):.3f}"
         )
+
+    final = select_assessments(
+        candidates=candidates,
+        intent=intent,
+        k=final_k
+    )
+    print("FINAL RECOMMENDATIONS:")
+    for i, c in enumerate(final, 1):
+        print(
+            f"{i}. {c['name']} | {c['test_type']} | "
+            f"{c['duration']} min\n   {c['url']}"
+        )
+
+    return final
+if __name__ == "__main__":
+    query = (
+        "I am hiring for Java developers who can also collaborate effectively "
+        "with my business teams. Looking for an assessment(s) that can be "
+        "completed in 40 minutes."
+    )
+    run_pipeline(query)
