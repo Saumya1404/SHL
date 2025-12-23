@@ -8,7 +8,7 @@ client = genai.Client(api_key=os.getenv("GOOGLE_GENAI_API_KEY"))
 
 def call_llm(query:str)->str:
     response = client.models.generate_content(
-        model='gemini-2.5-flash',
+        model='gemma-3-27b-it',
         contents = query
     )
     return response.text
