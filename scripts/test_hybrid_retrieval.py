@@ -1,4 +1,4 @@
-from retrieval.qdrant_search import hybrid_search
+from app.retrieval.qdrant_search import hybrid_search
 
 queries = [
     "Java developer",
