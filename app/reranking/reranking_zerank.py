@@ -1,6 +1,11 @@
 from zeroentropy import ZeroEntropy
 from typing import List,Dict
-zclient = ZeroEntropy()
+from dotenv import load_dotenv
+import os
+load_dotenv()
+
+ZEROENTROPY_API_KEY = os.getenv("ZEROENTROPY_API_KEY")
+zclient = ZeroEntropy(api_key=ZEROENTROPY_API_KEY)
 
 def build_document(item:dict)->str:
     parts = []
@@ -24,8 +29,16 @@ def zerank_rerank(query:str, candidates: List[Dict])->List[Dict]:
         documents = documents
     )
     for result in response.results:
-        idx = result.index,
-        candidates[idx]['zerank_score'] = result.relevance_score
+        idx = getattr(result, "index", None)
+        try:
+            idx = int(idx)
+        except Exception:
+            continue
+
+        score = getattr(result, "relevance_score", None)
+        if 0 <= idx < len(candidates):
+            candidates[idx]["zerank_score"] = score
+            candidates[idx]["rerank_score"] = score
 
     return sorted(
         candidates,
