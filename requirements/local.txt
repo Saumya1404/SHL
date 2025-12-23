@@ -1,0 +1,6 @@
+-r backend.txt
+-r frontend.txt
+
+# Optional dev / analysis tools
+tqdm==4.67.1
+python-dotenv==1.2.1
