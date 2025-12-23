@@ -22,3 +22,10 @@ beautifulsoup4==4.14.3
 soupsieve==2.8
 
 typing_extensions==4.15.0
+
+google-genai==1.56.0
+google-generativeai==0.8.6
+google-api-core
+google-auth
+protobuf
+grpcio
