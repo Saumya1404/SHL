@@ -58,7 +58,4 @@ if st.button("Recommend"):
                     st.write(f"**Duration:** {r.get('duration', '—')}")
 
 st.markdown("---")
-st.markdown(
-    "**Note:** This UI calls a local API running on port 8000. "
-    "Ensure the backend service is running before using the app."
-)
+
