@@ -1,25 +1,29 @@
-from dataclasses import dataclass
+from dataclasses import dataclass,field
 import re
-from typing import List, Optional
+from typing import List, Optional, Literal,Dict
 
+KeywordClass = Literal["critical", "context", "default"]
 
 @dataclass
 class Intent:
-    technical_skills: List[str]
-    behavioral_skills: List[str]
-
-    needs_technical: bool
-    needs_behavioral: bool
-    needs_balance: bool
-
-    max_duration_minutes: Optional[int]
-
-    technical_confidence: float
-    behavioral_confidence: float
+    technical_skills: List[str] = field(default_factory=list)
+    behavioral_skills: List[str] = field(default_factory=list)
+    needs_technical: bool = False
+    needs_behavioral: bool = False
+    needs_balance: bool = False
+    max_duration_minutes: Optional[int] = None
+    technical_confidence: float = 0.0
+    behavioral_confidence: float = 0.0
+    core_technical_skills: List[str] = field(default_factory=list)
+    supporting_technical_skills: List[str] = field(default_factory=list)
+    generic_role_terms: List[str] = field(default_factory=list)
+    seniority: str | None = None
+    role_type: str | None = None
+    keyword_importance: Dict[str,KeywordClass] | None = None
 
 TECHNICAL_KEYWORDS = {
     "java", "python", "sql", "developer", "engineering", "software",
-    "programming", "technical", "coding", "it", "cloud"
+    "programming", "technical", "coding", "cloud"
 }
 
 BEHAVIORAL_KEYWORDS = {
