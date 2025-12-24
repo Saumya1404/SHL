@@ -138,7 +138,9 @@ def hybrid_search(query:str,intent:Intent, top_k:int=50):
             "test_type": payload.get("test_type"),
             "duration": payload.get("assessment_duration"),
             "url": payload.get("url"),
-            "description": payload.get("description")
+            "description": payload.get("description"),
+            "remote_testing": payload.get("remote_testing"),
+            "adaptive_testing": payload.get("adaptive_testing")
         })
     return candidates
 
@@ -179,5 +181,7 @@ def sparse_search(query: str, intent: Intent, top_k: int = 50):
             "duration": payload.get("assessment_duration"),
             "url": payload.get("url"),
             "description": payload.get("description"),
+            "remote_testing": payload.get("remote_testing"),
+            "adaptive_testing": payload.get("adaptive_testing")
         })
     return candidates

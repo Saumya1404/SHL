@@ -16,40 +16,45 @@ class RecommendRequest(BaseModel):
 class Assessment(BaseModel):
     url: str
     name: Optional[str] = None
-    adaptive_support: Optional[bool] = False
+    adaptive_support: Optional[str] = "No"
     description: Optional[str] = None
     duration: Optional[int] = None
-    remote_support: Optional[bool] = False
+    remote_support: Optional[str] = "No"
     test_type: Optional[List[str]] = None
+
+
+class ResponseWrapper(BaseModel):
+    recommended_assessments: List[Assessment]
 
 
 @app.get("/health")
 def health():
-    return {"status": "ok"}
+    return {"status": "healthy"}
 
 
-@app.post("/recommend", response_model=List[Assessment])
+@app.post("/recommend", response_model=ResponseWrapper)
 def recommend(req: RecommendRequest):
     if not req.query:
         raise HTTPException(status_code=400, detail="query is required")
-
-    # Run the pipeline (this may call external services and take time)
+    
     results = run_pipeline(req.query, top_k=req.top_k, final_k=req.final_k)
 
     out = []
     for c in results:
+        adaptive_val = c.get("adaptive_testing") or c.get("adaptive_support") or "No"
+        remote_val = c.get("remote_testing") or c.get("remote_support") or "No"
+
         out.append({
             "url": c.get("url"),
             "name": c.get("name"),
-            "adaptive_support": c.get("adaptive_support", False),
+            "adaptive_support": adaptive_val,
             "description": c.get("description"),
-            # prefer canonical numeric duration if present
             "duration": c.get("duration") or c.get("assessment_duration"),
-            "remote_support": c.get("remote_support", c.get("remote_testing", False)),
+            "remote_support": remote_val,
             "test_type": c.get("test_type")
         })
 
-    return out
+    return {"recommended_assessments": out}
 
 
 if __name__ == "__main__":
