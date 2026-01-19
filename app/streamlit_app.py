@@ -31,7 +31,8 @@ if st.button("Recommend"):
                     timeout=60
                 )
                 response.raise_for_status()
-                results = response.json()
+                data = response.json()
+                results = data.get("recommended_assessments", [])
             except Exception as e:
                 st.error(f"Failed to fetch recommendations: {e}")
                 results = []
